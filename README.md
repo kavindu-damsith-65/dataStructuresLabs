@@ -1,22 +1,62 @@
+<div align="center">
+
 # Data Structures Laboratory
 
-A collection of university laboratory exercises used to practise core data structures and algorithms through direct C++ implementations.
+**Direct C++ implementations of core data structures and algorithms.**
 
-## What this repository covers
+<img src="https://img.shields.io/badge/Academic_learning_archive-4F86FF?style=flat-square&labelColor=0B1224" alt="Academic learning archive" /> <img src="https://img.shields.io/badge/Public_repository-4F86FF?style=flat-square&labelColor=0B1224" alt="Public repository" />
 
-- Sorting and running-median exercises
-- Array and linked-list stacks
-- Binary search trees, heaps, and hash tables
-- Graph problems
+[Portfolio](https://kavindudamsith.tech/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/kavindu-damsith-86696722a/) &nbsp;|&nbsp; [Email](mailto:kavindudamsith65@gmail.com)
 
-## Technology
-
-`C++` Â· `Algorithms` Â· `Data Structures`
-
-## Project status
-
-Academic learning archive
+</div>
 
 ---
 
-Built by [Kavindu Damsith](https://kavindudamsith.tech/) Â· [LinkedIn](https://www.linkedin.com/in/kavindu-damsith-86696722a/) Â· [Email](mailto:kavindudamsith65@gmail.com)
+## Overview
+
+This academic repository follows a sequence of laboratory exercises from sorting and stacks through trees, hashing, heaps, and graphs. The value is in implementing the structures directly and comparing their behaviour, rather than relying only on standard-library abstractions.
+
+## What it does
+
+| Area | Details |
+| --- | --- |
+| **Sorting** | Recursive and non-recursive quicksort plus running-median exercises. |
+| **Linear structures** | Stacks implemented with arrays and linked lists. |
+| **Trees and heaps** | Binary search tree and heap implementations. |
+| **Hashing and graphs** | Basic and chained hash tables, linked lists, and graph problems. |
+
+## Repository map
+
+| Path | Purpose |
+| --- | --- |
+| `week5/` | Sorting and running-median work. |
+| `week6/` | Stack implementations and timing exercise. |
+| `week7/` | Binary search tree. |
+| `week8/` | Heap implementation. |
+| `week9/` | Hash tables and linked lists. |
+| `week10-week12/` | Graph and later laboratory work. |
+
+## Technology
+
+- **C++**
+- **Algorithms**
+- **Data Structures**
+
+## Local setup
+
+```bash
+g++ path/to/file.cpp -o program
+./program
+```
+
+### Configuration notes
+
+Each laboratory file is a standalone exercise. Compile the file you want to inspect rather than treating the repository as one application.
+
+## Status
+
+Academic learning archive.
+
+---
+
+Questions about this repository? [Email me](mailto:kavindudamsith65@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/kavindu-damsith-86696722a/).
